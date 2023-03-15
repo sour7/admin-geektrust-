@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Admin Panel
+An admin pannel where one can update or change users details also can delete one or multiple user at same time.
+
 Visit : https://admin-geektrust.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
